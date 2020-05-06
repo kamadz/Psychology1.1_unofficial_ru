@@ -5,7 +5,7 @@
   <TabPsyche>Психология</TabPsyche>
   
   <!-- WITab text -->
-  <SexualityDisabledWarning>Psychology's sexuality system is disabled, either by you or by the presence of a conflicting mod on your mod list. Please disable any other mods that alter colonist sexuality or interaction.</SexualityDisabledWarning>
+  <SexualityDisabledWarning>Система сексуальности Psychology отключена конфликтующими модами. Пожалуйста, отключите все моды, меняющие механику отношений и сексуальности.</SexualityDisabledWarning>
   <Sexuality>Сексуальность</Sexuality>
   <KinseyRating>Рейтинг Кинси:</KinseyRating>
   <Asexual>Асексуальность</Asexual>

@@ -63,7 +63,7 @@
 
     <CuredAnxiety.label>лечится от тревожности</CuredAnxiety.label>
     <CuredAnxiety.rulePack.rulesStrings.0>tale_noun->терапия [patient_nameShortDef] против тревожности</CuredAnxiety.rulePack.rulesStrings.0>
-    <CuredAnxiety.rulePack.rulesStrings.1>image->[doctor_nameFull] открывает набор лекарств с мира-утопии, [circumstance_group]</CuredAnxiety.rulePack.rulesStrings.1>
+    <CuredAnxiety.rulePack.rulesStrings.1>image->[doctor_nameFull] открывает набор лекарств из мира-утопии, [circumstance_group]</CuredAnxiety.rulePack.rulesStrings.1>
     <CuredAnxiety.rulePack.rulesStrings.2>image->[doctor_nameFull] копается в голове [patient_nameFull], [circumstance_group]</CuredAnxiety.rulePack.rulesStrings.2>
     <CuredAnxiety.rulePack.rulesStrings.3>image->[patient_nameFull] нервно посматривает на набор футуристических медицинских инструментов, [circumstance_group]</CuredAnxiety.rulePack.rulesStrings.3>
     <CuredAnxiety.rulePack.rulesStrings.4>circumstance_phrase->пока [patient_nameShortDef] начинает выглядеть ещё тревожнее, чем обычно</CuredAnxiety.rulePack.rulesStrings.4>
@@ -89,7 +89,7 @@
     <MentalStateTantrum.rulePack.rulesStrings.8>circumstance_phrase->причиной чему стресс</MentalStateTantrum.rulePack.rulesStrings.8>
     <MentalStateTantrum.rulePack.rulesStrings.9>circumstance_phrase->громко крича</MentalStateTantrum.rulePack.rulesStrings.9>
     <MentalStateTantrum.rulePack.rulesStrings.10>circumstance_phrase->дрожа от ярости</MentalStateTantrum.rulePack.rulesStrings.10>
-    <MentalStateTantrum.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun] трясёся от неконтролируемой ярости.</MentalStateTantrum.rulePack.rulesStrings.11>
+    <MentalStateTantrum.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun] трясётся от неконтролируемой ярости.</MentalStateTantrum.rulePack.rulesStrings.11>
     <MentalStateTantrum.rulePack.rulesStrings.12>desc_sentence->[PAWN_possessive] сжались в злостный оскал.</MentalStateTantrum.rulePack.rulesStrings.12>
     <MentalStateTantrum.rulePack.rulesStrings.13>desc_sentence->[PAWN_possessive] глаза налились кровью от злобы.</MentalStateTantrum.rulePack.rulesStrings.13>
     <MentalStateTantrum.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] сбивает свои кулаки в кровь.</MentalStateTantrum.rulePack.rulesStrings.14>
@@ -198,7 +198,7 @@
     <MentalStateHistrionic.rulePack.rulesStrings.10>desc_sentence-Все избегают [PAWN_pronoun].</MentalStateHistrionic.rulePack.rulesStrings.10>
     <MentalStateHistrionic.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun] заламывает себе руки.</MentalStateHistrionic.rulePack.rulesStrings.11>
     <MentalStateHistrionic.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun] выглядит нетерпеливо.</MentalStateHistrionic.rulePack.rulesStrings.12>
-    <MentalStateHistrionic.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun] пытается поговорить с людьми, но все её избегают.</MentalStateHistrionic.rulePack.rulesStrings.13>
+    <MentalStateHistrionic.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun] пытается поговорить с людьми, но все [PAWN_possessive] избегают.</MentalStateHistrionic.rulePack.rulesStrings.13>
     <MentalStateHistrionic.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] пристаёт ко всему, что движется.</MentalStateHistrionic.rulePack.rulesStrings.14>
 
     <MentalStateFellPlotting.label>сумасшедший заговор</MentalStateFellPlotting.label>
@@ -218,16 +218,16 @@
     <MentalStateFellPlotting.rulePack.rulesStrings.13>circumstance_phrase->разговаривая с {PAWN_gender ? самим : самой} собой</MentalStateFellPlotting.rulePack.rulesStrings.13>
     <MentalStateFellPlotting.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] держит в руках украденное оружие.</MentalStateFellPlotting.rulePack.rulesStrings.14>
     <MentalStateFellPlotting.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun] хватает своё оружие покрепче.</MentalStateFellPlotting.rulePack.rulesStrings.15>
-    <MentalStateFellPlotting.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun] смотрит вокруг с взгядом полным ненависти.</MentalStateFellPlotting.rulePack.rulesStrings.16>
+    <MentalStateFellPlotting.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun] смотрит вокруг с взглядом полным ненависти.</MentalStateFellPlotting.rulePack.rulesStrings.16>
     <MentalStateFellPlotting.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun] выглядит уверенно.</MentalStateFellPlotting.rulePack.rulesStrings.17>
     <MentalStateFellPlotting.rulePack.rulesStrings.18>desc_sentence->[PAWN_pronoun] пилит взглядом зрителя.</MentalStateFellPlotting.rulePack.rulesStrings.18>
 
-    <MentalStateParanoia.label>паранойа</MentalStateParanoia.label>
+    <MentalStateParanoia.label>паранойя</MentalStateParanoia.label>
     <MentalStateParanoia.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] впадает в паранойю</MentalStateParanoia.rulePack.rulesStrings.0>
     <MentalStateParanoia.rulePack.rulesStrings.1>image->[PAWN_nameFull] впадает в параноидальный бред [circumstance_group]</MentalStateParanoia.rulePack.rulesStrings.1>
     <MentalStateParanoia.rulePack.rulesStrings.2>image->[PAWN_nameFull] бранит другого поселенца [circumstance_group]</MentalStateParanoia.rulePack.rulesStrings.2>
     <MentalStateParanoia.rulePack.rulesStrings.3>image->[PAWN_nameFull] бесцельно бродит по поселению [circumstance_group]</MentalStateParanoia.rulePack.rulesStrings.3>
-    <MentalStateParanoia.rulePack.rulesStrings.4>image->[PAWN_nameFull] выкрикивает предупреждения проходим [circumstance_group]</MentalStateParanoia.rulePack.rulesStrings.4>
+    <MentalStateParanoia.rulePack.rulesStrings.4>image->[PAWN_nameFull] выкрикивает предупреждения проходит [circumstance_group]</MentalStateParanoia.rulePack.rulesStrings.4>
     <MentalStateParanoia.rulePack.rulesStrings.5>image->[PAWN_nameFull] качается вперёд и назад на полу [circumstance_group]</MentalStateParanoia.rulePack.rulesStrings.5>
     <MentalStateParanoia.rulePack.rulesStrings.6>circumstance_phrase->с безумным взглядом на лице</MentalStateParanoia.rulePack.rulesStrings.6>
     <MentalStateParanoia.rulePack.rulesStrings.7>circumstance_phrase->с пустым взглядом на лице</MentalStateParanoia.rulePack.rulesStrings.7>

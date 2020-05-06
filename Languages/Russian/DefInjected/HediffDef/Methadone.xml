@@ -5,7 +5,7 @@
 
 
   <!-- Methadone addiction -->
-  <MethadoneTolerance.label>Methadon-Toleranz</MethadoneTolerance.label>
+  <MethadoneTolerance.label>толерантность к метадону</MethadoneTolerance.label>
   <MethadoneTolerance.stages.small-0.label>небольшая</MethadoneTolerance.stages.small-0.label>
   <MethadoneTolerance.stages.small-1.label>небольшая</MethadoneTolerance.stages.small-1.label>
   <MethadoneTolerance.stages.large.label>средняя</MethadoneTolerance.stages.large.label>

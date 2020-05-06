@@ -46,7 +46,7 @@
     <Adventurous.platformIssueLow>В нашем поселении есть всё необходимое.</Adventurous.platformIssueLow>
 
     <DrugFriendly.label>нарколояльность</DrugFriendly.label>
-    <DrugFriendly.description>Лояльные у наркотикам люди не видят в их употреблении ничего плохого и не пытаются их избегать.</DrugFriendly.description>
+    <DrugFriendly.description>Лояльные к наркотикам люди не видят в их употреблении ничего плохого и не пытаются их избегать.</DrugFriendly.description>
     <DrugFriendly.conversationTopics.2>пьянках</DrugFriendly.conversationTopics.2>
     <DrugFriendly.conversationTopics.3>прибывании под кайфом</DrugFriendly.conversationTopics.3>
     <DrugFriendly.conversationTopics.10>психиновом чае</DrugFriendly.conversationTopics.10>
@@ -139,7 +139,7 @@
     <Romantic.description>Романтикам нравятся долгосрочные, содержательные отношения, посвящение себя другому человеку и интимные жесты.</Romantic.description>
     <Romantic.conversationTopics.1>бывших партнёрах</Romantic.conversationTopics.1>
     <Romantic.conversationTopics.3>том, каково быть родителем</Romantic.conversationTopics.3>
-    <Romantic.platformIssueHigh>Я серьёзно отнесусь у этому назначению.</Romantic.platformIssueHigh>
+    <Romantic.platformIssueHigh>Я серьёзно отнесусь к этому назначению.</Romantic.platformIssueHigh>
     <Romantic.platformIssueLow>Я не буду зацикливаться на этой работе.</Romantic.platformIssueLow>
 
     <Thoughtful.label>задумчивость</Thoughtful.label>

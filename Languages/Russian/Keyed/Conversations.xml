@@ -41,7 +41,7 @@
 	<EpicTalk1>{INITIATOR_labelShort} очень продолжительно {INITIATOR_gender ? обсуждал : обсуждала} {0} с {1_nameDef}.</EpicTalk1>
 	<EpicTalk2>{INITIATOR_labelShort} бесконечно долго {INITIATOR_gender ? говорил : говорила} с {RECIPIENT_labelShort} о {0}.</EpicTalk2>
 	<EpicTalk3>{INITIATOR_labelShort} крайне долго {INITIATOR_gender ? беседовал : беседовала} с {RECIPIENT_labelShort} о {0}.</EpicTalk3>
-	<EpicTalk4>{INITIATOR_labelShort} очень долго {INITIATOR_gender ? спорил : спорила} c {RECIPIENT_labelShort} о {0}.</EpicTalk4>
+	<EpicTalk4>{INITIATOR_labelShort} очень долго {INITIATOR_gender ? спорил : спорила} с {RECIPIENT_labelShort} о {0}.</EpicTalk4>
 	<EpicTalk5>{INITIATOR_labelShort} ужасно долго {INITIATOR_gender ? трепался : трепалась} с {RECIPIENT_labelShort} о {0}.</EpicTalk5>
 	<EpicTalk6>{INITIATOR_labelShort} очень продолжительно {INITIATOR_gender ? дискутировал : дискутировала} о {0} с {RECIPIENT_labelShort}.</EpicTalk6>
 	

@@ -21,9 +21,9 @@
     <KnowGuestExecutedBleedingHeart.stages.someone_killed_by_organ_harvest.label>смерть из-за удаления органа</KnowGuestExecutedBleedingHeart.stages.someone_killed_by_organ_harvest.label>
     <KnowGuestExecutedBleedingHeart.stages.someone_killed_by_organ_harvest.description>Пленник или гость умер из-за того, что у него удалили жизненно важные органы. Это просто ужасно!</KnowGuestExecutedBleedingHeart.stages.someone_killed_by_organ_harvest.description>
     <KnowColonistExecutedBleedingHeart.stages.justified_execution_of_colonist.label>справедливая казнь поселенца</KnowColonistExecutedBleedingHeart.stages.justified_execution_of_colonist.label>
-    <KnowColonistExecutedBleedingHeart.stages.justified_execution_of_colonist.description>Виновного колониста казнили. Хоть это и справедливо, я никак не могу смириться с этим..</KnowColonistExecutedBleedingHeart.stages.justified_execution_of_colonist.description>
+    <KnowColonistExecutedBleedingHeart.stages.justified_execution_of_colonist.description>Виновного колониста казнили. Хоть это и справедливо, я никак не могу смириться с этим...</KnowColonistExecutedBleedingHeart.stages.justified_execution_of_colonist.description>
     <KnowColonistExecutedBleedingHeart.stages.colonist_euthanized.label>эвтаназия поселенца</KnowColonistExecutedBleedingHeart.stages.colonist_euthanized.label>
-    <KnowColonistExecutedBleedingHeart.stages.colonist_euthanized.description>Поселенца подвергли эвтаназии. Это гуманно, но мне всё равно грустно..</KnowColonistExecutedBleedingHeart.stages.colonist_euthanized.description>
+    <KnowColonistExecutedBleedingHeart.stages.colonist_euthanized.description>Поселенца подвергли эвтаназии. Это гуманно, но мне всё равно грустно...</KnowColonistExecutedBleedingHeart.stages.colonist_euthanized.description>
     <KnowColonistExecutedBleedingHeart.stages.colonist_executed.label>казнь поселенца</KnowColonistExecutedBleedingHeart.stages.colonist_executed.label>
     <KnowColonistExecutedBleedingHeart.stages.colonist_executed.description>Поселенца хладнокровно убили. Наше поселение с каждым днём всё быстрее катится в пропасть!</KnowColonistExecutedBleedingHeart.stages.colonist_executed.description>
     <KnowColonistExecutedBleedingHeart.stages.colonist_killed_by_organ_harvest.label>смерть поселенца от извлечения органов</KnowColonistExecutedBleedingHeart.stages.colonist_killed_by_organ_harvest.label>
@@ -39,7 +39,7 @@
     <AteAwfulMealPickyEater.stages.ate_awful_meal.label>съедено отвратительное блюдо</AteAwfulMealPickyEater.stages.ate_awful_meal.label>
     <AteAwfulMealPickyEater.stages.ate_awful_meal.description>Это было отвратительное, безвкусное блюдо. Омерзительно. Я хочу пищу сильно лучше этого.</AteAwfulMealPickyEater.stages.ate_awful_meal.description>
     <AteRawFoodPickyEater.stages.ate_raw_food.label>съедена сырая пища</AteRawFoodPickyEater.stages.ate_raw_food.label>
-    <AteRawFoodPickyEater.stages.ate_raw_food.description>Мне пришлось съесть сырую пищу. Я не хочу здесь жить, если мы можем хотя бы кого-нибудь назначить поваром.</AteRawFoodPickyEater.stages.ate_raw_food.description>
+    <AteRawFoodPickyEater.stages.ate_raw_food.description>Мне пришлось съесть сырую пищу. Я не хочу здесь жить, если мы не можем хотя бы кого-нибудь назначить поваром.</AteRawFoodPickyEater.stages.ate_raw_food.description>
     <AteNormalMealPickyEater.stages.ate_plain_meal.label>съедено простое блюдо</AteNormalMealPickyEater.stages.ate_plain_meal.label>
     <AteNormalMealPickyEater.stages.ate_plain_meal.description>Это блюдо не отвечает моим стандартам. Мне пришлось его съесть только потому, что не было ничего другого.</AteNormalMealPickyEater.stages.ate_plain_meal.description>
     <AteInsectMeatAsIngredientPickyEater.stages.ate_cooked_insect_meat.label>съедено блюдо с мясом насекомого</AteInsectMeatAsIngredientPickyEater.stages.ate_cooked_insect_meat.label>
@@ -84,7 +84,7 @@
     <DreamNightmare.stages.had_a_nightmare.label>приснился кошмар</DreamNightmare.stages.had_a_nightmare.label>
     <DreamNightmare.stages.had_a_nightmare.description>Аа! Какой ужасный кошмар. Мне плохо даже от одной мысли о нём.</DreamNightmare.stages.had_a_nightmare.description>
     <TreatmentFailed.stages.treatment_failed.label>лечение {0} провалилось</TreatmentFailed.stages.treatment_failed.label>
-    <TreatmentFailed.stages.treatment_failed.description>Доктор не смог мне помось... Такое ощущение, будто меня свосем не поняли.</TreatmentFailed.stages.treatment_failed.description>
+    <TreatmentFailed.stages.treatment_failed.description>Доктор не смог мне помочь... Такое ощущение, будто меня совсем не поняли.</TreatmentFailed.stages.treatment_failed.description>
     <SuccessfulPlot.stages.fell_plot_succeeded.label>сумасшедший заговор удался</SuccessfulPlot.stages.fell_plot_succeeded.label>
     <SuccessfulPlot.stages.fell_plot_succeeded.description>Я стёр с лица земли эту чуму. Теперь мы в безопасности.</SuccessfulPlot.stages.fell_plot_succeeded.description>
     <HeardParanoia.stages.exposed_to_paranoid_rambling.label>параноидальный бред</HeardParanoia.stages.exposed_to_paranoid_rambling.label>
@@ -96,7 +96,7 @@
     <PrisonerAbandonedToDieBleedingHeart.stages.prisoner_abandoned_to_die.label>заключённый брошен умирать</PrisonerAbandonedToDieBleedingHeart.stages.prisoner_abandoned_to_die.label>
     <PrisonerAbandonedToDieBleedingHeart.stages.prisoner_abandoned_to_die.description>Мы бросили заключённого на верную смерть. Мы должны нести ответственность за тех, кого берём в плен.</PrisonerAbandonedToDieBleedingHeart.stages.prisoner_abandoned_to_die.description>
     <DateCancelled.stages.had_to_cancel_a_date.label>пришлось отменить свидание</DateCancelled.stages.had_to_cancel_a_date.label>
-    <DateCancelled.stages.had_to_cancel_a_date.description>У меня было запланированно свидание со своим партнёром, но в поселении что-то пошло не так и всё пришлось отменить. Такая досада...</DateCancelled.stages.had_to_cancel_a_date.description>
+    <DateCancelled.stages.had_to_cancel_a_date.description>У меня было запланировано свидание со своим партнёром, но в поселении что-то пошло не так и всё пришлось отменить. Такая досада...</DateCancelled.stages.had_to_cancel_a_date.description>
     <WonFight.stages.won_a_social_fight.label>победа в драке</WonFight.stages.won_a_social_fight.label>
     <WonFight.stages.won_a_social_fight.description>Каждый теперь дважды подумает, прежде чем лезть на меня.</WonFight.stages.won_a_social_fight.description>
     <PrudeSeen.stages.witnessed_the_human_form.label>голое тело</PrudeSeen.stages.witnessed_the_human_form.label>

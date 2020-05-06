@@ -4,7 +4,7 @@
   <FellPlotting.label>сумасшедший заговор</FellPlotting.label>
   <FellPlotting.baseInspectLine>Душевное состояние: планирует заговор</FellPlotting.baseInspectLine>
   <FellPlotting.beginLetter>{0} прячется в своей комнате и что-то замышляет.</FellPlotting.beginLetter>
-  <FellPlotting.beginLetterLabel>сумасшедний заговор</FellPlotting.beginLetterLabel>
+  <FellPlotting.beginLetterLabel>сумасшедший заговор</FellPlotting.beginLetterLabel>
   <FellPlotting.recoveryMessage>{0} {PAWN_gender ? пришёл : пришла} в себя и {PAWN_gender ? прекратил : прекратила} строить свой сумасшедший заговор.</FellPlotting.recoveryMessage>
   
   <SelfHarm.label>членовредительство</SelfHarm.label>
@@ -39,7 +39,7 @@
   
   <Apathy.label>апатия</Apathy.label>
   <Apathy.baseInspectLine>Душевное состояние: апатия</Apathy.baseInspectLine>
-  <Apathy.beginLetter>{0} впадает в апатию вряд ли будет выполнять какую-либо работу.</Apathy.beginLetter>
+  <Apathy.beginLetter>{0} впадает в апатию и вряд ли будет выполнять какую-либо работу.</Apathy.beginLetter>
   <Apathy.beginLetterLabel>апатия</Apathy.beginLetterLabel>
   <Apathy.recoveryMessage>{0} {PAWN_gender ? вышел : вышла} из состояния апатии.</Apathy.recoveryMessage>
   
