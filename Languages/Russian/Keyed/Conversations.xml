@@ -23,7 +23,7 @@
 	<NormalTalk7>{INITIATOR_labelShort} {INITIATOR_gender ? подискутировал : подискутировала} с {RECIPIENT_labelShort} о {0}.</NormalTalk7>
 	<NormalTalk8>{INITIATOR_labelShort} {INITIATOR_gender ? узнал : узнала} мнение {RECIPIENT_labelShort} о {0}.</NormalTalk8>
 	<NormalTalk9>{INITIATOR_labelShort} {INITIATOR_gender ? поделился : поделилась} мыслями о {0} {RECIPIENT_labelShort}.</NormalTalk9>
-	<NormalTalk10>{INITIATOR_labelShort} {INITIATOR_gender ? расспросил : расспросила} {RECIPIENT_labelShort} о мнении о {0}.</NormalTalk10>
+	<NormalTalk10>{INITIATOR_labelShort} {INITIATOR_gender ? разузнал : разузнала} мнение {RECIPIENT_labelShort} о {0}.</NormalTalk10>
 	<NormalTalk11>{INITIATOR_labelShort} {INITIATOR_gender ? поспорил : поспорила} о {0} с {RECIPIENT_labelShort}.</NormalTalk11>
 	<NormalTalk12>{INITIATOR_labelShort} {INITIATOR_gender ? посоветовался : посоветовалась} с {RECIPIENT_labelShort} о {0}.</NormalTalk12>
 	
