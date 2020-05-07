@@ -16,7 +16,7 @@
 	<NumberOfNormalTalks>12</NumberOfNormalTalks>
 	<NormalTalk1>{INITIATOR_labelShort} {INITIATOR_gender ? поговорил : поговорила} о {0} с {RECIPIENT_labelShort}.</NormalTalk1>
 	<NormalTalk2>{INITIATOR_labelShort} {INITIATOR_gender ? побеседовал : побеседовала} о {0} с {RECIPIENT_labelShort}.</NormalTalk2>
-	<NormalTalk3>{INITIATOR_labelShort} {INITIATOR_gender ? обсудил : обсудила} {0} с {RECIPIENT_labelShort}.</NormalTalk3>
+	<NormalTalk3>{INITIATOR_labelShort} {INITIATOR_gender ? обсудил : обсудила} пару вопросов о {0} с {RECIPIENT_labelShort}.</NormalTalk3>
 	<NormalTalk4>{INITIATOR_labelShort} {INITIATOR_gender ? высказал : высказала} {RECIPIENT_labelShort} своё мнение о {0}.</NormalTalk4>
 	<NormalTalk5>{INITIATOR_labelShort} {INITIATOR_gender ? поболтал : поболтала} с {RECIPIENT_labelShort} о {0}.</NormalTalk5>
 	<NormalTalk6>{INITIATOR_labelShort} {INITIATOR_gender ? пообщался : пообщалась} с {RECIPIENT_labelShort} о {0}.</NormalTalk6>
